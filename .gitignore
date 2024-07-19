@@ -74,4 +74,10 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Cache files for the editor to use
-Content/Showcase*
+Content/Showcase/*
+
+# For test purpose
+Content/Characters
+Content/ThirdPerson
+Content/__ExternalActors__
+Content/__ExternalObjects__

@@ -32,6 +32,10 @@
 				"Android",
 				"VisionOS"
 			]
+		},
+		{
+			"Name": "EditorPerformanceModule",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
